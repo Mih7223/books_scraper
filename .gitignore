@@ -1,0 +1,10 @@
+# Ignorer tous les fichiers CSV
+*.csv
+
+# Ignorer tout le dossier images
+/images/
+
+# Ignorer l'environnement virtuel Python
+/venv/
+# Ignorer le fichier xml
+*.xml
